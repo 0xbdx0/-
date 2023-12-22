@@ -87,6 +87,10 @@ pip install wxauto time requests
 
 \```
 
+微信版本： 3.7.6.xx
+如果没有的话，可以在这个网站下载：
+https://wechat-for-windows.en.uptodown.com/windows/download
+
 代码：
 
 ```python
